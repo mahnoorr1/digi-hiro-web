@@ -5,7 +5,8 @@
 
 ## Getting Started
 
-Flutter Version 3.0
+Flutter Version: 2.8
+
 Figma: https://www.figma.com/file/WBGqnoRkyuRX6jWTCTN1NC/DigiHiro?type=design&node-id=0-1&mode=design&t=q8yi7mi5vgQpywNt-0 
 
 ## Gallery
