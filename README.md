@@ -1,6 +1,7 @@
 # digihiro
 
-A marketing website that provides a platform to provide development Services. 
+- A marketing website that provides a platform to provide development Services.
+- Available on both web and mobile
 
 ## Getting Started
 
